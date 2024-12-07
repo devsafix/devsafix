@@ -32,6 +32,8 @@
 
 ###
 
+## I recently changed my Discord username, so my current stats are low.
+
 ## :chart_with_upwards_trend: Current Stats
 
 <br />
