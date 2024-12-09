@@ -32,7 +32,9 @@
 
 ###
 
-## I recently changed my Discord username, so my current stats are low.
+```typescript
+  I recently changed my Discord username, so my current statistics are low.
+  ```
 
 ## :chart_with_upwards_trend: Current Stats
 
