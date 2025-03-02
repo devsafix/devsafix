@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hey, 👋 I'm Kawser Ferdous Safi</h1>
+<h1 align="center">Hello, 👋 I'm Kawser Ferdous Safi</h1>
 
 ###
 
