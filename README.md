@@ -44,22 +44,22 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/kawser-ferdous-safi/" target="_blank">
+  <a href="https://www.linkedin.com/in/devsafix/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://discord.com/kawser_03" target="_blank">
+  <a href="https://discord.com/devsafix" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-  <a href="https://www.facebook.com/kawserferdoussafi.03" target="_blank">
+  <a href="https://www.facebook.com/devsafix" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
-  <a href="https://www.instagram.com/kawserferdoussafi_x" target="_blank">
+  <a href="https://www.instagram.com/devsafix" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="mdkawserferdoussafi@gmail.com" target="_blank">
+  <a href="devsafix@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://t.me/kawser_03" target="_blank">
+  <a href="https://t.me/devsafix" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
   <a href="01709190412" target="_blank">
@@ -111,8 +111,12 @@
   <img src="https://github-profile-trophy.vercel.app?username=devsafix&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-<div align="center">
-<img alt="snake eating my contributions" src="https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg" />
+<div>
+   <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devsafix&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </div>
+
+<h3>Support Me <img src = "https://media2.giphy.com/media/RJgjFf46V4KVa1l42A/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h3>  
+<p><a href="https://www.buymeacoffee.com/devsafix"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Idba" /></a></p> 
 
 ###
