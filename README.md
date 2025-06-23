@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="center">A passionate MERN Stack developer from Bangladesh</h4>
+<h4 align="center">A passionate Full Stack Developer from Bangladesh</h4>
 
 <div align="left">
   <img src="https://profile-counter.glitch.me/devsafix/count.svg?"  />
@@ -21,7 +21,7 @@
 ###
 
 <p align="left">
-  👨‍💻 Hi, I'm Kawser, a passionate and dedicated web developer.<br>
+  👨‍💻 Hi, I'm Kawser, a passionate and dedicated Full Stack developer.<br>
   📚 Constantly exploring and learning new technologies to enhance my skills.<br>
   🚀 Currently diving deep into Next.js, GSAP, Three.js, and Framer Motion.<br>
   🎨 Projects often incorporate Tailwind CSS and Aos for stunning animations and responsive designs.<br>
