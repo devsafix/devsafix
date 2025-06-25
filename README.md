@@ -1,10 +1,10 @@
 <a href="https://devsafix.vercel.app/">
-<img src="https://i.ibb.co.com/3cjF9nG/be-original.jpg" />
+<img src="https://i.ibb.co/Wvr9d1gc/web-de.jpg" />
 </a>
 
 ###
 
-<h1 align="center">Hello, 👋 I'm Kawser Ferdous Safi</h1>
+<h1 align="center">Hi, 👋 I'm Kawser Ferdous Safi</h1>
 
 ###
 
