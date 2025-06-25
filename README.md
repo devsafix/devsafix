@@ -8,8 +8,6 @@
 
 ###
 
-<h4 align="center">A passionate Full Stack Developer from Bangladesh</h4>
-
 <div align="left">
   <img src="https://profile-counter.glitch.me/devsafix/count.svg?"  />
 </div>
