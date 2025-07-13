@@ -6,14 +6,8 @@
 
 <h1 align="center">Hi, 👋 I'm Kawser</h1>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Assalamu+Alaikum;Welcome+to+my+profile!&font=Fira%20Code&center=true&color=ffff&width=300&height=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!&font=Fira%20Code&center=true&color=ffff&width=600&height=30">
 </p>
-
-###
-
-<div align="left">
-  <img src="https://profile-counter.glitch.me/devsafix/count.svg?"  />
-</div>
 
 ###
 
