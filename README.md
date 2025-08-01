@@ -5,9 +5,6 @@
 ###
 
 <h1 align="center">Hi, 👋 I'm Kawser</h1>
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!&font=Fira%20Code&center=true&color=ffff&width=600&height=30">
-</p>
 
 ###
 
