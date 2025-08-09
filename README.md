@@ -35,7 +35,7 @@ Long-term vision: Master **Backend Engineering, Cloud, DevOps, and AI integratio
 
 ---
 
-## Connect With Me  
+## Connect With Me
 <div align="center">
   <a href="https://www.linkedin.com/in/devsafix/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -74,9 +74,3 @@ Long-term vision: Master **Backend Engineering, Cloud, DevOps, and AI integratio
 ## Activity Graph  
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=devsafix&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
----
-
-## Support Me  
-<a href="https://www.buymeacoffee.com/devsafix">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" />
-</a>
