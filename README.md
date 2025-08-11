@@ -21,10 +21,10 @@ Long-term vision: Master **Backend Engineering, Cloud, DevOps, and AI integratio
 | **Category**   | **Technologies** |
 |----------------|------------------|
 | **Frontend**   | HTML5, CSS3, JavaScript, TypeScript, Tailwind CSS, React, Next.js, Redux |
-| **Backend**    | Node.js, Express.js, Mongoose, Firebase, OAuth, Clerk, brcypt, JWT, Zod |
+| **Backend**    | Node.js, Express.js, Mongoose, Firebase, OAuth, Clerk, Brcypt, JWT, Zod |
 | **Database**   | MongoDB, PostgreSQL, Redis |
-| **Tools**      | Git, Axios, Tanstack Query, GitHub, Docker, Figma, Canva, VS Code, npm |
-| **Upcoming Skills** | Prisma ORM, AWS, Kubernetes, DevOps (CI/CD), AI Integration (Python), Webflow, n8n Automation, Jest, Cypress |
+| **Tools**      | Axios, Tanstack Query, Git, GitHub, Docker, Figma, Canva, VS Code, npm |
+| **Upcoming Skills** | Prisma ORM, AWS, Kubernetes, DevOps (CI/CD), AI Integration, n8n Automation, Jest, Cypress |
 
 ---
 
