@@ -1,7 +1,3 @@
-<a href="https://devsafix.vercel.app/">
-<img src="https://indoanalytica.com/static/images/bannerr.gif" />
-</a>
-
 <h1 align="center">Full Stack Developer (MERN) | Backend & Cloud Enthusiast | AI Automation Explorer | DevOps Learner</h1>
 
 ---
