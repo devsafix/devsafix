@@ -1,4 +1,4 @@
-<h1 align="center">Full Stack Developer (MERN) | Backend & Cloud Enthusiast | AI Automation Explorer | DevOps Learner</h1>
+<h1 align="center">Full Stack Developer (MERN) | Backend & Cloud Enthusiast | AI Automation Explorer</h1>
 
 ---
 
