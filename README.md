@@ -1,4 +1,4 @@
-![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
+![MasterHead](https://i.ibb.co.com/ksdBN80g/my-banner.png)
 
 <h1 align="center">Full Stack Developer (MERN) | Backend & Cloud Enthusiast | AI Automation Explorer</h1>
 
