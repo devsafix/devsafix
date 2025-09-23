@@ -63,7 +63,6 @@ Long-term vision: Master **Backend Engineering, Cloud, DevOps, and AI integratio
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devsafix&show_icons=true&theme=dracula&count_private=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devsafix&layout=compact&theme=dracula" height="150" />
-  <img src="https://github-profile-trophy.vercel.app/?username=devsafix&theme=dracula&row=1&column=6" height="150" />
 </div>
 
 ---
