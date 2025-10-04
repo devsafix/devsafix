@@ -5,7 +5,7 @@
 ---
 
 ## About Me  
-Hi, I'm **Kawser** — a passionate and dedicated Full Stack Web Developer with a strong focus on backend engineering and AI integration.  
+Hi, I'm **Kawser**, a passionate and dedicated Full Stack Web Developer with a strong focus on backend engineering and AI integration.  
 Constantly exploring new technologies to stay ahead in the ever-evolving tech landscape.  
 Currently working with **Next.js, TypeScript, Tailwind CSS, and Redux** to build scalable, high-performance applications.  
 Experienced with the **MERN stack, PostgreSQL, Prisma**, and **cloud-ready backend solutions**.  
