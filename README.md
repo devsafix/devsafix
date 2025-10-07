@@ -1,6 +1,6 @@
 ![MasterHead](https://i.ibb.co.com/ksdBN80g/my-banner.png)
 
-<h1 align="center">Full Stack Developer (MERN) | Backend & Cloud Enthusiast | AI Automation Explorer</h1>
+<h1 align="center">Full Stack Developer | Backend & Cloud Enthusiast | AI Automation Explorer</h1>
 
 ---
 
