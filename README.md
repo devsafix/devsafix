@@ -9,7 +9,7 @@
 
 ## About Me  
 <blockquote style="border-left: 5px solid #00BFFF; color: #C9D1D9; padding-left: 15px;">
-Hello, I'm Kawser, a passionate and dedicated Full Stack Web Developer with a strong focus on backend engineering and AI integration. Constantly exploring new technologies to stay ahead in the ever-evolving tech landscape.  
+Hi, I'm Kawser, a passionate and dedicated Full Stack Web Developer with a strong focus on backend engineering and AI integration. Constantly exploring new technologies to stay ahead in the ever-evolving tech landscape.  
 Currently working with Next.js, Prisma, PostgreSQL, Docker and AWS to build scalable, high-performance applications. Experienced with the MERN stack, PostgreSQL, Prisma, and cloud-ready backend solutions.  
 </blockquote>
 
