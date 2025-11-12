@@ -1,7 +1,7 @@
 ![MasterHead](https://i.ibb.co.com/ksdBN80g/my-banner.png)
 
 <h1 align="center">
-  Full Stack Developer & Backend Architect ... <br/>
+  Full Stack Developer & Backend Architect & <br/>
   Cloud Enthusiast | AI Automation Explorer | Prompt Engineer
 </h1>
 
