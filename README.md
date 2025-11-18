@@ -1,4 +1,4 @@
-![MasterHead](https://i.ibb.co.com/DfB0Gyd1/Linked-In-Banner.png)
+![MasterHead](https://i.ibb.co.com/STV4nQR/Linked-In-Banner.jpg)
 
 <h1 align="center">
   Full Stack Developer & Backend Architect & <br/>
