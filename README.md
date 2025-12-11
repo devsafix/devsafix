@@ -57,17 +57,13 @@ Currently working with Next.js, Prisma, PostgreSQL, Docker and AWS to build scal
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
 </div>
-
----
-
-## GitHub Insights  
-<div align="center">
+  
+<!-- ## GitHub Insights <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devsafix&show_icons=true&theme=dracula&count_private=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devsafix&layout=compact&theme=dracula" height="150" />
 </div>
 
----
+--- -->
 
-## Activity Graph  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devsafix&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<!-- ## Activity Graph <img src="https://github-readme-activity-graph.vercel.app/graph?username=devsafix&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> -->
 
