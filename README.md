@@ -26,12 +26,12 @@ Currently working with Next.js, Prisma, PostgreSQL, Docker and AWS to build scal
 
 ---
 
-## Current Stats  
+<!-- ## Current Stats  
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=devsafix&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
 
----
+---  -->
 
 ## Connect With Me
 <div align="center">
@@ -65,5 +65,6 @@ Currently working with Next.js, Prisma, PostgreSQL, Docker and AWS to build scal
 
 --- -->
 
-<!-- ## Activity Graph <img src="https://github-readme-activity-graph.vercel.app/graph?username=devsafix&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> -->
+## Activity Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devsafix&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
