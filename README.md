@@ -1,7 +1,5 @@
-![MasterHead](https://i.ibb.co.com/STV4nQR/Linked-In-Banner.jpg)
-
 <h1 align="center">
-  Full Stack Developer | Backend Enthusiast | AI Automation Explorer
+  Full Stack Developer | Backend Enthusiast | AI Automation Expert
 </h1>
 
 ---
