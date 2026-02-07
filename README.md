@@ -1,5 +1,5 @@
 <h1 align="center">
-  Full Stack Developer | Backend Enthusiast | AI Automation Expert
+  Full Stack Developer | AI Automation | Backend Enthusiast
 </h1>
 
 ---
