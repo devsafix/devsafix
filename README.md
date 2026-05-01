@@ -63,6 +63,6 @@ Currently working with Next.js, Prisma, PostgreSQL, Docker and AWS to build scal
 
 --- -->
 
-<!--## Activity Graph
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=devsafix&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> -->
+## Activity Graph
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=devsafix&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
