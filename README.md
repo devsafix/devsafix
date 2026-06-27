@@ -1,6 +1,8 @@
 <h1 align="center">
-  Full Stack Developer | AI Automation | Backend Enthusiast
+  Full Stack | Agentic AI | Software Enthusiast
 </h1>
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%">
 
 ---
 
@@ -30,13 +32,13 @@ Currently working with Next.js, Prisma, PostgreSQL, Docker and AWS to build scal
 </p>
 
 ---
-  
-<!-- ## GitHub Insights <div align="center">
+   ## GitHub Insights 
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devsafix&show_icons=true&theme=dracula&count_private=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devsafix&layout=compact&theme=dracula" height="150" />
 </div>
 
---- -->
+---
 
 ## Activity Graph
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devsafix&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
