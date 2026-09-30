@@ -2,17 +2,11 @@
   Full Stack | Agentic AI | Software Enthusiast
 </h1>
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%">
-
----
-
 ## About Me  
 <blockquote style="border-left: 5px solid #00BFFF; color: #C9D1D9; padding-left: 15px;">
 Hi, I'm Kawser, a passionate and dedicated Full Stack Web Developer with a strong focus on backend engineering and AI integration. Constantly exploring new technologies to stay ahead in the ever-evolving tech landscape.  
 Currently working with Next.js, Prisma, PostgreSQL, Docker and AWS to build scalable, high-performance applications. Experienced with the MERN stack, PostgreSQL, Prisma, and cloud-ready backend solutions.  
 </blockquote>
-
----
 
 ## Skills Overview  
 
@@ -24,24 +18,9 @@ Currently working with Next.js, Prisma, PostgreSQL, Docker and AWS to build scal
 | **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-4479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23F24E1E.svg?style=for-the-badge&logo=redis&logoColor=white) |
 | **Tools & Platforms** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF99900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Jest](https://img.shields.io/badge/jest-003B57.svg?style=for-the-badge&logo=jest&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) |
 
----
 
 ## Current Stats  
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=devsafix&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
-
----
- 
-<!-- <div align="center">
-## GitHub Insights 
-  <img src="https://github-readme-stats.vercel.app/api?username=devsafix&show_icons=true&theme=dracula&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devsafix&layout=compact&theme=dracula" height="150" />
----
-</div>  -->
-
-
-
-## Activity Graph
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=devsafix&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
