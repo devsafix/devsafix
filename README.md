@@ -4,7 +4,7 @@
 
 ## About Me  
 <blockquote style="border-left: 5px solid #00BFFF; color: #C9D1D9; padding-left: 15px;">
-Hi, I'm <b>Kawser</b> a Full-Stack Developer building production web applications across the frontend and backend. While I craft polished, animated user interfaces with Next.js, React, and Tailwind CSS, my deepest passion lies in heavy-duty backend architecture, DevOps, and AI Engineering.<br><br>
+Hi, I'm <b>Kawser</b> a Full-Stack Developer building production web applications across the frontend and backend.<br><br>
 <b>Current Focus:</b> Mastering advanced polyglot backend engineering (<b>NestJS, FastAPI, Go/Gin, and Java/Spring Boot</b>), database internals, server architecture, and DevOps.<br>
 <b>2028 Goal:</b> Evolving into a full-fledged <b>AI Software Engineer</b>—architecting scalable, distributed backends powered by intelligent agentic workflows.
 </blockquote>
